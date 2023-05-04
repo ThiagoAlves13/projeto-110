@@ -1,0 +1,5 @@
+0 Thiago com boné
+1 Thiago sem boné
+2 Pedra
+3 Papel
+4 Tesoura
